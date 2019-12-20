@@ -8,7 +8,6 @@
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="https://github.com/CaseiArima/test/blob/master/app-release.zip?raw=true" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
-      
     </item>
   </channel>
 </rss>
