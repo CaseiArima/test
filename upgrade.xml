@@ -9,5 +9,11 @@
         <enclosure url="https://github.com/CaseiArima/test/blob/master/app-release.zip?raw=true" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
+    <item>
+        <title>Version 3.0</title>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <enclosure url="https://github.com/CaseiArima/test/blob/master/app-release_2_0.zip?raw=true" sparkle:version="3.0" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+    </item>
   </channel>
 </rss>
