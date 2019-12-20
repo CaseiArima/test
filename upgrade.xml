@@ -6,7 +6,7 @@
         <title>Version 2.0</title>
         <description>desc</description>
         <pubDate>Fri, 20 Dec 2019 05:20:11 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" />
+        <enclosure url="https://github.com/CaseiArima/test/blob/master/app-release.zip?raw=true" sparkle:version="2.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
