@@ -16,5 +16,12 @@
         <enclosure url="https://github.com/CaseiArima/test/blob/master/app-release_3_0.zip?raw=true" sparkle:version="3.0" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
     </item>
+    <item>
+        <title>Version 4.0</title>
+        <description>desc</description>
+        <pubDate>Sat, 26 Jul 2014 15:30:11 +0000</pubDate>
+        <enclosure url="https://github.com/CaseiArima/test/blob/master/app-release_3_0.zip?raw=true" sparkle:version="4.0" />
+        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
+    </item>
   </channel>
 </rss>
