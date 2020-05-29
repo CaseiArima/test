@@ -45,7 +45,7 @@
     </item>
     <item>
         <title>Version 6.0</title>
-        <sparkle:version>5.0</sparkle:version>
+        <sparkle:version>6.0</sparkle:version>
         <enclosure url="https://pegas21.com/files/apk_release/380408daf0e2856.apk" sparkle:version="4.0" sparkle:os="android" />
         <sparkle:maximumSystemVersion>2.0.0</sparkle:maximumSystemVersion>
     </item>
