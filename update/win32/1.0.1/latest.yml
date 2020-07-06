@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: node-app-1.0.1.exe
+    sha512: +P4smK8EsMyh6J/JpnH94TnPtF5mQxztgZyuedJIhmnWLj5CT/6DYUIYuwaKUA2om3PF0iNwulZG4/f7cREEYw==
+    size: 294324699
+path: node-app-1.0.1.exe
+sha512: +P4smK8EsMyh6J/JpnH94TnPtF5mQxztgZyuedJIhmnWLj5CT/6DYUIYuwaKUA2om3PF0iNwulZG4/f7cREEYw==
+releaseDate: '2020-07-06T13:45:34.153Z'
